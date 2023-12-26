@@ -5,3 +5,5 @@
 # Digital Garden T
 
 [[Notes/First note\|First note]]
+
+[[Notes/Rewarding myself for good actions\|Rewarding myself for good actions]]
