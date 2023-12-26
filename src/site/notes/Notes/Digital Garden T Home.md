@@ -3,3 +3,5 @@
 ---
 
 # Digital Garden T
+
+[[Notes/First note\|First note]]
