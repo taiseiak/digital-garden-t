@@ -11,6 +11,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Mosa Lina second impressions\|Mosa Lina second impressions]]           | 27.12.2023    |
 | [[Notes/Rewarding myself for good actions\|Rewarding myself for good actions]] | 27.12.2023    |
 | [[Notes/Mosa Lina first impressions\|Mosa Lina first impressions]]             | 26.12.2023    |
 | [[Notes/First note\|First note]]                                               | 26.12.2023    |
