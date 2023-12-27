@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/first-note/"}
+{"dg-publish":true,"permalink":"/notes/first-note/","created":"2023-12-26T21:01:21.446+09:00","updated":"2023-12-26T21:03:31.043+09:00"}
 ---
 
 # First note
