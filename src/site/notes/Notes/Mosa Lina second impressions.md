@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mosa-lina-second-impressions/","created":"2023-12-27T17:44:50.794+09:00","updated":"2023-12-27T17:52:40.507+09:00"}
+{"dg-publish":true,"permalink":"/notes/mosa-lina-second-impressions/","created":"2023-12-27T17:44:50.000+09:00","updated":"2023-12-27T17:52:40.000+09:00"}
 ---
 
 # Mosa Lina second impressions
