@@ -11,6 +11,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Hiroshima Peace Memorial Museum\|Hiroshima Peace Memorial Museum]]     | 28.12.2023    |
 | [[Notes/Portal 2 first impressions\|Portal 2 first impressions]]               | 28.12.2023    |
 | [[Notes/Mosa Lina second impressions\|Mosa Lina second impressions]]           | 27.12.2023    |
 | [[Notes/Rewarding myself for good actions\|Rewarding myself for good actions]] | 27.12.2023    |
