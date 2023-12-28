@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/rewarding-myself-for-good-actions/","created":"2023-12-27T08:18:00.732+09:00","updated":"2023-12-27T08:37:09.579+09:00"}
+{"dg-publish":true,"permalink":"/notes/rewarding-myself-for-good-actions/","created":"2023-12-27T08:18:00.000+09:00","updated":"2023-12-27T08:37:09.000+09:00"}
 ---
 
 # Rewarding myself for good actions
