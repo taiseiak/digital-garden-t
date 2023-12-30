@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/hiroshima-peace-memorial-museum/","created":"2023-12-28T18:01:39.519+09:00","updated":"2023-12-28T18:17:05.482+09:00"}
+{"dg-publish":true,"permalink":"/notes/hiroshima-peace-memorial-museum/","created":"2023-12-28T18:01:39.000+09:00","updated":"2023-12-28T18:17:05.000+09:00"}
 ---
 
 # Hiroshima Peace Memorial Museum
