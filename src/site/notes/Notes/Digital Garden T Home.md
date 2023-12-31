@@ -11,6 +11,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Hifi Rush first impressions\|Hifi Rush first impressions]]             | 31.12.2023    |
 | [[Notes/Portal 2 spoiler review\|Portal 2 spoiler review]]                     | 30.12.2023    |
 | [[Notes/Portal 2 second impressions\|Portal 2 second impressions]]             | 28.12.2023    |
 | [[Notes/Hiroshima Peace Memorial Museum\|Hiroshima Peace Memorial Museum]]     | 28.12.2023    |
