@@ -11,6 +11,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Revisiting Vampire Survivors\|Revisiting Vampire Survivors]]           | 01.01.2024    |
 | [[Notes/Hifi Rush second impressions\|Hifi Rush second impressions]]           | 31.12.2023    |
 | [[Notes/Sifu first impressions\|Sifu first impressions]]                       | 31.12.2023    |
 | [[Notes/Hifi Rush first impressions\|Hifi Rush first impressions]]             | 31.12.2023    |
