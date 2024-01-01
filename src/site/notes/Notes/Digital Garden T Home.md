@@ -11,6 +11,9 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Delayed intuition\|Delayed intuition]]                                 | 01.01.2024    |
+| [[Notes/Build identity through habits\|Build identity through habits]]         | 01.01.2024    |
+| [[Notes/Small actions build habits\|Small actions build habits]]               | 01.01.2024    |
 | [[Notes/Revisiting Vampire Survivors\|Revisiting Vampire Survivors]]           | 01.01.2024    |
 | [[Notes/Hifi Rush second impressions\|Hifi Rush second impressions]]           | 31.12.2023    |
 | [[Notes/Sifu first impressions\|Sifu first impressions]]                       | 31.12.2023    |
