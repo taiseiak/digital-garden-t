@@ -11,6 +11,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                              | Last modified |
 | --------------------------------------------------------------------------------- | ------------- |
+| [[Notes/Vampire Survivors review\|Vampire Survivors review]]                   | 02.01.2024    |
 | [[Notes/Delayed intuition\|Delayed intuition]]                                 | 01.01.2024    |
 | [[Notes/Build identity through habits\|Build identity through habits]]         | 01.01.2024    |
 | [[Notes/Small actions build habits\|Small actions build habits]]               | 01.01.2024    |
