@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mosa-lina-second-impressions/","created":"2023-12-27T17:44:50.794+09:00","updated":"2023-12-27T17:52:40.507+09:00"}
+{"dg-publish":true,"permalink":"/notes/mosa-lina-second-impressions/","created":"2023-12-27T17:44:50.794+09:00","updated":"2024-01-03T11:23:24.977+09:00"}
 ---
 
 # Mosa Lina second impressions
+
+#game #game-impression #impression 
 
 My second impressions of Mosa Lina are pretty similar to my [[Notes/Mosa Lina first impressions\|first impressions]]. I still don't fully understand how the game works, especially the part where I press replay. I don't know where I end up when I press replay, and if I am supposed to keep rolling until I get solutions that I like. I am assuming the game is made to have infinite replays and you keep on replaying until you complete every level.
 
