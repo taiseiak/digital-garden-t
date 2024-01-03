@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.834+09:00","updated":"2024-01-03T11:23:25.077+09:00"}
+{"dg-publish":true,"permalink":"/notes/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.834+09:00","updated":"2024-01-03T11:25:58.066+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow first impressions
 
-#impression #book-impression
+#impression #book-impression #book
 
 I decided to buy [Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin](https://www.goodreads.com/en/book/show/58784475) because I have been running recently ([[Notes/Rewarding myself for good actions\|Rewarding myself for good actions]]) and want to have something to keep me interested while running. I am quitting watching YouTube, so audiobooks seems like a great alternative. While browing [Best Books 2022 — Goodreads Choice Awards](https://www.goodreads.com/choiceawards/best-books-2022) I saw that [Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin](https://www.goodreads.com/en/book/show/58784475) won the fiction category. I have been reading a lot of self-help and non-fiction books recently, so I wanted to have a fiction book like [Dune (novel)](https://en.wikipedia.org/wiki/Dune_(novel)) to keep me interested.
 
