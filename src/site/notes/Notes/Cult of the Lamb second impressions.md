@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T11:13:31.029+09:00"}
+{"dg-publish":true,"permalink":"/notes/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T11:23:25.061+09:00"}
 ---
 
 # Cult of the Lamb second impressions
 
-#game #game-impressions
+#game #game-impression #impression 
 
 My favorite part of [Persona 5](https://en.wikipedia.org/wiki/Persona_5) was how the game intertwines two different gameplay elements together. The dungeon crawling lets me move forward the social simulator, 
 
