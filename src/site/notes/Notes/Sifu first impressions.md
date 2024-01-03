@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sifu-first-impressions/","created":"2023-12-31T18:34:56.542+09:00","updated":"2023-12-31T18:41:15.877+09:00"}
+{"dg-publish":true,"permalink":"/notes/sifu-first-impressions/","created":"2023-12-31T18:34:56.542+09:00","updated":"2024-01-03T11:23:58.650+09:00"}
 ---
 
 # Sifu first impressions
+
+#game #game-impression #impression 
 
 This is a beautiful game. I don't really understand what is going on yet with the controls. I got through the tutorial and stopped playing. This was probably the most beautiful tutorial I have seen. I love how it looks like an intro to a movie. The cuts that happen when choosing the sex of the character is awesome too.
 
