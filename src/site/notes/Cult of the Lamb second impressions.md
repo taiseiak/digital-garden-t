@@ -20,5 +20,6 @@ I am excited to play more of Cult of the Lamb.
 
 - [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]
 - [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
+- [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]
 
 { .block-language-dataview}
