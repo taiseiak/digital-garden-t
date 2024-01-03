@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rewarding-myself-for-good-actions/","created":"2023-12-27T08:18:00.732+09:00","updated":"2023-12-27T08:37:09.579+09:00"}
+{"dg-publish":true,"permalink":"/rewarding-myself-for-good-actions/","created":"2023-12-27T08:18:00.732+09:00","updated":"2024-01-03T11:34:26.234+09:00"}
 ---
 
 # Rewarding myself for good actions
+
+#habits 
 
 As I wrote in my [[First note\|First note]], this digital garden is a place for me to share my thoughts. Sharing thoughts is an action that I want to do more often, so I have reduced the friction for writing and publishing as much as I can. There are other things that I want to do more often, like running or playing video games, and do less often, like watching YouTube. To reinforce these actions, I am taking an idea from [Atomic Habits: Tiny Changes, Remarkable Results by James Clear](https://jamesclear.com/atomic-habits), to **reward myself for good actions immediately**.
 
