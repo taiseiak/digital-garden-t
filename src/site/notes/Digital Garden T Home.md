@@ -10,6 +10,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Tomorrow, and Tomorrow, and Tomorrow - 2\|Tomorrow, and Tomorrow, and Tomorrow - 2]]                             | 2024.01.03   |
 | [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                                                                     | 2024.01.03   |
 | [[Dataview query for similar title\|Dataview query for similar title]]                                             | 2024.01.03   |
 | [[Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] | 2024.01.03   |
