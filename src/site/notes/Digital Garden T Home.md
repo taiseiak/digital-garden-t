@@ -33,5 +33,7 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 | [[Rewarding myself for good actions\|Rewarding myself for good actions]]                                           | 2023.12.27   |
 | [[Mosa Lina first impressions\|Mosa Lina first impressions]]                                                       | 2023.12.26   |
 | [[First note\|First note]]                                                                                         | 2023.12.26   |
+| [[Voidigo review\|Voidigo review]]                                                                                 | 2023.12.01   |
+| [[Understanding Strategy vs Tactics\|Understanding Strategy vs Tactics]]                                           | 2023.11.30   |
 
 { .block-language-dataview}
