@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T10:55:34.882+09:00"}
+{"dg-publish":true,"permalink":"/notes/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T11:13:31.029+09:00"}
 ---
 
 # Cult of the Lamb second impressions
@@ -16,6 +16,9 @@ The rogue-like portion, especially the combat, is super simple. This is an excel
 
 I am excited to play more of Cult of the Lamb.
 
-## Related notes
+## Similar notes
 
-* [[Notes/Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]
+- [[Notes/Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]
+- [[Notes/Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
+
+{ .block-language-dataview}
