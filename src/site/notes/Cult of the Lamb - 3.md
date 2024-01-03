@@ -18,5 +18,6 @@ This type of organic growth, like the number of followers or the worship points 
 | ------------------------------------------------------------------------------- |
 | [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
 | [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]] |
+| [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                               |
 
 { .block-language-dataview}
