@@ -12,7 +12,7 @@ To continue with the game I need to feel like [[It's good to fail\|It's good to 
 
 ## Similar notes
 
-- [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
 - [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]
+- [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
 
 { .block-language-dataview}
