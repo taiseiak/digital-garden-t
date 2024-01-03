@@ -12,6 +12,9 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 | File                                                                                                                        | Last modified |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[Notes/Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] | 03.01.2024    |
+| [[Notes/Vampire Survivors review\|Vampire Survivors review]]                                                             | 03.01.2024    |
+| [[Notes/Sifu second impressions\|Sifu second impressions]]                                                               | 03.01.2024    |
+| [[Notes/Sifu first impressions\|Sifu first impressions]]                                                                 | 03.01.2024    |
 | [[Notes/Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]                                       | 03.01.2024    |
 | [[Notes/Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]                                         | 03.01.2024    |
 | [[Notes/Hifi Rush second impressions\|Hifi Rush second impressions]]                                                     | 03.01.2024    |
@@ -23,13 +26,10 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 | [[Notes/Portal 2 spoiler review\|Portal 2 spoiler review]]                                                               | 03.01.2024    |
 | [[Notes/Dataview query for similar title\|Dataview query for similar title]]                                             | 03.01.2024    |
 | [[Notes/It's good to fail\|It's good to fail]]                                                                           | 02.01.2024    |
-| [[Notes/Sifu second impressions\|Sifu second impressions]]                                                               | 02.01.2024    |
-| [[Notes/Vampire Survivors review\|Vampire Survivors review]]                                                             | 02.01.2024    |
 | [[Notes/Delayed intuition\|Delayed intuition]]                                                                           | 01.01.2024    |
 | [[Notes/Build identity through habits\|Build identity through habits]]                                                   | 01.01.2024    |
 | [[Notes/Small actions build habits\|Small actions build habits]]                                                         | 01.01.2024    |
 | [[Notes/Revisiting Vampire Survivors\|Revisiting Vampire Survivors]]                                                     | 01.01.2024    |
-| [[Notes/Sifu first impressions\|Sifu first impressions]]                                                                 | 31.12.2023    |
 | [[Notes/Hiroshima Peace Memorial Museum\|Hiroshima Peace Memorial Museum]]                                               | 28.12.2023    |
 | [[Notes/Rewarding myself for good actions\|Rewarding myself for good actions]]                                           | 27.12.2023    |
 | [[Notes/First note\|First note]]                                                                                         | 26.12.2023    |
