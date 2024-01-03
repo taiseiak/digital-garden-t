@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.834+09:00","updated":"2024-01-03T11:25:58.066+09:00"}
+{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.834+09:00","updated":"2024-01-03T14:39:01.845+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow first impressions
@@ -12,6 +12,5 @@ Since I like game development I thought this book would be interesting. But the 
 
 ## Related notes
 
-- [[Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]]
 
 { .block-language-dataview}
