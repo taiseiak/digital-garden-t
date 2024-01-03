@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sifu-second-impressions/","created":"2024-01-02T17:28:52.694+09:00","updated":"2024-01-02T17:51:00.116+09:00"}
+{"dg-publish":true,"permalink":"/notes/sifu-second-impressions/","created":"2024-01-02T17:28:52.694+09:00","updated":"2024-01-03T11:24:03.114+09:00"}
 ---
 
 # Sifu second impressions
+
+#game #game-impression #impression 
 
 I played Sifu for two hours, and I can tell I will not enjoy this game.
 
