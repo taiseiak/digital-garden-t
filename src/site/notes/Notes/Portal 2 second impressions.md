@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/portal-2-second-impressions/","created":"2023-12-28T22:52:45.000+09:00","updated":"2023-12-28T23:02:28.000+09:00"}
+{"dg-publish":true,"permalink":"/notes/portal-2-second-impressions/","created":"2023-12-28T22:52:45.000+09:00","updated":"2024-01-03T11:23:25.004+09:00"}
 ---
 
 # Portal 2 second impressions
+
+#game #game-impression #impression 
 
 Valve smoothed and refined Portal 2 to bring the player into the zone. This is the smoothness that I talked in the [[Notes/Portal 2 first impressions\|Portal 2 first impressions]]. It’s so impressive to make a game like this. I feel like I am part of a movie when I play this game.
 
