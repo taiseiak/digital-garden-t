@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vampire-survivors-review/","created":"2024-01-02T13:13:55.161+09:00","updated":"2024-01-02T13:29:25.657+09:00"}
+{"dg-publish":true,"permalink":"/notes/vampire-survivors-review/","created":"2024-01-02T13:13:55.161+09:00","updated":"2024-01-03T11:24:15.669+09:00"}
 ---
 
 # Vampire Survivors 
+
+#game #game-review #review
 
 *Spoilers for Vampire Survivors*
 
