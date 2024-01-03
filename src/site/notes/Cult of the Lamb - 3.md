@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cult-of-the-lamb-3/","created":"2024-01-03T14:18:46.383+09:00","updated":"2024-01-03T14:33:14.210+09:00"}
+{"dg-publish":true,"permalink":"/cult-of-the-lamb-3/","created":"2024-01-03T14:18:46.383+09:00","updated":"2024-01-03T14:37:45.823+09:00"}
 ---
 
 # Cult of the Lamb - 3
@@ -18,6 +18,5 @@ This type of organic growth, like the number of followers or the worship points 
 | ------------------------------------------------------------------------------- |
 | [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
 | [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]] |
-| [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                               |
 
 { .block-language-dataview}
