@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T14:57:35.503+09:00"}
+{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T21:44:40.716+09:00"}
 ---
 
 # Digital Garden T
@@ -7,6 +7,8 @@
 This digital garden is where I publish my thoughts in a way that's easy to output.
 
 ## Recent notes
+
+This table to notes is intentionally set up to be long. It holds up to 1000 entries for now. The table growing in length gives me satisfaction when I write more notes.
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
