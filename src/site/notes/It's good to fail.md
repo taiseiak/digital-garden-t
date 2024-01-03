@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/it-s-good-to-fail/","created":"2024-01-02T21:25:26.991+09:00","updated":"2024-01-02T21:32:27.629+09:00"}
+{"dg-publish":true,"permalink":"/it-s-good-to-fail/","created":"2024-01-02T21:25:26.991+09:00","updated":"2024-01-03T11:34:41.215+09:00"}
 ---
 
 # It's good to fail
+
+#habits
 
 I don't like not being able to do things. It's a motivator for me for learning and growing as a person. But there is a paradox here, since failing is a critical part, more than success, for learning and growing and being able to do things. I need to think it's good to fail.
 
