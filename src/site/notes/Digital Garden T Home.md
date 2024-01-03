@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-02T22:18:37.024+09:00"}
+---
+
+
+# Digital Garden T
+
+This digital garden is where I publish my thoughts in a way that's easy to output.
+
+## Recent notes
+
+| File | Last modified |
+| ---- | ------------- |
+
+{ .block-language-dataview}
