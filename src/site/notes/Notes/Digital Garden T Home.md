@@ -11,11 +11,11 @@ This digital garden is where I publish my thoughts in a way that's easy to outpu
 
 | File                                                                                                                        | Last modified |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[Notes/Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] | 03.01.2024    |
+| [[Notes/Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]                                         | 03.01.2024    |
 | [[Notes/Dataview query for similar title\|Dataview query for similar title]]                                             | 03.01.2024    |
 | [[Notes/Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]                                       | 03.01.2024    |
+| [[Notes/Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] | 03.01.2024    |
 | [[Notes/It's good to fail\|It's good to fail]]                                                                           | 02.01.2024    |
-| [[Notes/Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]                                         | 02.01.2024    |
 | [[Notes/Sifu second impressions\|Sifu second impressions]]                                                               | 02.01.2024    |
 | [[Notes/Vampire Survivors review\|Vampire Survivors review]]                                                             | 02.01.2024    |
 | [[Notes/Delayed intuition\|Delayed intuition]]                                                                           | 01.01.2024    |
