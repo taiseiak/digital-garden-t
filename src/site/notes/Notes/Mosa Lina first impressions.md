@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mosa-lina-first-impressions/","created":"2023-12-26T21:33:38.259+09:00","updated":"2023-12-26T21:43:53.683+09:00"}
+{"dg-publish":true,"permalink":"/notes/mosa-lina-first-impressions/","created":"2023-12-26T21:33:38.259+09:00","updated":"2024-01-03T11:23:24.973+09:00"}
 ---
 
 # Mosa Lina first impressions
+
+#game #game-impression #impression 
 
 I played [Mosa Lina](https://store.steampowered.com/app/2477090/Mosa_Lina/) for about 10 minutes. I didn't really understand most of the game, but I am curious of figuring out the game and the power ups.
 
