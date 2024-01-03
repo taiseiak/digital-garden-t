@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cult-of-the-lamb-first-impressions/","created":"2024-01-02T20:25:31.000+09:00","updated":"2024-01-03T11:23:25.053+09:00"}
+{"dg-publish":true,"permalink":"/cult-of-the-lamb-first-impressions/","created":"2024-01-02T20:25:31.000+09:00","updated":"2024-01-03T14:38:43.534+09:00"}
 ---
 
 # Cult of the Lamb first impressions
@@ -12,7 +12,6 @@ To continue with the game I need to feel like [[It's good to fail\|It's good to 
 
 ## Similar notes
 
-- [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]
 - [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
 - [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]
 
