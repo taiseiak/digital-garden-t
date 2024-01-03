@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T11:23:25.061+09:00"}
+{"dg-publish":true,"permalink":"/cult-of-the-lamb-second-impressions/","created":"2024-01-03T10:20:07.184+09:00","updated":"2024-01-03T14:38:49.645+09:00"}
 ---
 
 # Cult of the Lamb second impressions
@@ -19,7 +19,6 @@ I am excited to play more of Cult of the Lamb.
 ## Similar notes
 
 - [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]
-- [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]]
 - [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]
 
 { .block-language-dataview}
