@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/portal-2-first-impressions/","created":"2023-12-28T10:50:36.000+09:00","updated":"2023-12-28T10:57:40.000+09:00"}
+{"dg-publish":true,"permalink":"/notes/portal-2-first-impressions/","created":"2023-12-28T10:50:36.000+09:00","updated":"2024-01-03T11:23:24.995+09:00"}
 ---
 
 # Portal 2 first impressions
+
+#game #game-impression #impression 
 
 I played a couple of hours of Portal 2. I enjoyed Portal 1 a lot. I enjoyed completing a game that has little bumps in gameplay and no pressure of being a long game. Games like Elden Ring and other grand games make me feel like I have to invest a significant amount of time to enjoy the game like others. Being a working adult, playing small games has its own enjoyment.
 
