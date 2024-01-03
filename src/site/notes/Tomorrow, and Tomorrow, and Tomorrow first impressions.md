@@ -12,5 +12,6 @@ Since I like game development I thought this book would be interesting. But the 
 
 ## Related notes
 
+- [[Tomorrow, and Tomorrow, and Tomorrow - 2\|Tomorrow, and Tomorrow, and Tomorrow - 2]]
 
 { .block-language-dataview}
