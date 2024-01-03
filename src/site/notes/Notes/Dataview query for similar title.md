@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dataview-query-for-similar-title/","created":"2024-01-03T10:57:23.088+09:00","updated":"2024-01-03T11:05:04.819+09:00"}
+{"dg-publish":true,"permalink":"/notes/dataview-query-for-similar-title/","created":"2024-01-03T10:57:23.088+09:00","updated":"2024-01-03T11:13:35.663+09:00"}
 ---
 
 # Dataview query for similar title
@@ -12,7 +12,7 @@ While creating [[Notes/Tomorrow, and Tomorrow, and Tomorrow first impressions\|T
 
 dataview  
 List 
-WHERE contains(file.name,"Pase your title here")
+WHERE contains(file.name,"Paste your title here")
 AND dg-publish = true AND file.name != this.name
 
 ```
