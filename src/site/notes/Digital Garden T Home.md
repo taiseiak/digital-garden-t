@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T11:36:52.649+09:00"}
+{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T14:35:12.550+09:00"}
 ---
-
 
 # Digital Garden T
 
