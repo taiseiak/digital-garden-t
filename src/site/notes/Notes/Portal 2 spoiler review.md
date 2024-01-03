@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/portal-2-spoiler-review/","created":"2023-12-30T20:54:38.350+09:00","updated":"2023-12-30T21:15:25.560+09:00"}
+{"dg-publish":true,"permalink":"/notes/portal-2-spoiler-review/","created":"2023-12-30T20:54:38.350+09:00","updated":"2024-01-03T11:18:00.631+09:00"}
 ---
 
 # Portal 2 spoiler review
+
+#game #game-review #review
 
 *I played Portal 2 to completion once.*
 
