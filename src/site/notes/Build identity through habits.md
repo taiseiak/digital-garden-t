@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/build-identity-through-habits/","created":"2024-01-01T21:42:46.707+09:00","updated":"2024-01-01T21:50:13.174+09:00"}
+{"dg-publish":true,"permalink":"/build-identity-through-habits/","created":"2024-01-01T21:42:46.707+09:00","updated":"2024-01-03T11:34:16.923+09:00"}
 ---
 
 # Build identity through habits
+
+#habits
 
 In [[Atomic Habits\|Atomic Habits]] a key concept is to build identity through habits. Most times, people want to create habits to reach a goal or see results. But this approach doesn't work for building habits because most times the results we see from doing habits take a long time to show.
 
