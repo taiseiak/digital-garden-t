@@ -12,6 +12,8 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Keep things easy\|Keep things easy]]                                                                             | 2024.01.04   |
+| [[My first lazy day\|My first lazy day]]                                                                           | 2024.01.04   |
 | [[Minute long games\|Minute long games]]                                                                           | 2024.01.03   |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 2\|Tomorrow, and Tomorrow, and Tomorrow - 2]]                             | 2024.01.03   |
 | [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                                                                     | 2024.01.03   |
