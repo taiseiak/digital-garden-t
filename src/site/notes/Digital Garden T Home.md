@@ -12,6 +12,9 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Valve's "Secret Weapon"\|Valve's "Secret Weapon"]]                                                               | 2024.01.05   |
+| [[Quantity over quality\|Quantity over quality]]                                                                   | 2024.01.05   |
+| [[Tomorrow, and Tomorrow, and Tomorrow - 3\|Tomorrow, and Tomorrow, and Tomorrow - 3]]                             | 2024.01.05   |
 | [[Keep things easy\|Keep things easy]]                                                                             | 2024.01.04   |
 | [[My first lazy day\|My first lazy day]]                                                                           | 2024.01.04   |
 | [[Minute long games\|Minute long games]]                                                                           | 2024.01.03   |
