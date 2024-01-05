@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valve-s-secret-weapon/","created":"2024-01-05T10:45:58.475+09:00","updated":"2024-01-05T10:57:43.755+09:00"}
+{"dg-publish":true,"permalink":"/valve-s-secret-weapon/","created":"2024-01-05T10:45:58.475+09:00","updated":"2024-01-05T12:04:21.840+09:00"}
 ---
 
 # Valve's "Secret Weapon"
