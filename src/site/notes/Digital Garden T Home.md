@@ -14,7 +14,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [[Poverty, by America - 1\|Poverty, by America - 1]]                                                               | 2024.01.05   |
 | [[Elden Ring - 1\|Elden Ring - 1]]                                                                                 | 2024.01.05   |
-| [[Valve's "Secret Weapon"\|Valve's "Secret Weapon"]]                                                               | 2024.01.05   |
+| [[Valve's Secret Weapon\|Valve's Secret Weapon]]                                                                   | 2024.01.05   |
 | [[Quantity over quality\|Quantity over quality]]                                                                   | 2024.01.05   |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 3\|Tomorrow, and Tomorrow, and Tomorrow - 3]]                             | 2024.01.05   |
 | [[Keep things easy\|Keep things easy]]                                                                             | 2024.01.04   |
