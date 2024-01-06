@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Elden Ring - 2\|Elden Ring - 2]]                                                                                 | 2024.01.06   |
 | [[Poverty, by America - 1\|Poverty, by America - 1]]                                                               | 2024.01.05   |
 | [[Elden Ring - 1\|Elden Ring - 1]]                                                                                 | 2024.01.05   |
 | [[Valve's Secret Weapon\|Valve's Secret Weapon]]                                                                   | 2024.01.05   |
