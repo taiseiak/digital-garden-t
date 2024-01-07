@@ -12,6 +12,8 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[We don't feel until we see\|We don't feel until we see]]                                                         | 2024.01.07   |
+| [[Poverty, by America - 2\|Poverty, by America - 2]]                                                               | 2024.01.07   |
 | [[Finding my own solution\|Finding my own solution]]                                                               | 2024.01.06   |
 | [[Elden Ring - 2\|Elden Ring - 2]]                                                                                 | 2024.01.06   |
 | [[Poverty, by America - 1\|Poverty, by America - 1]]                                                               | 2024.01.05   |
@@ -20,6 +22,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 | [[Quantity over quality\|Quantity over quality]]                                                                   | 2024.01.05   |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 3\|Tomorrow, and Tomorrow, and Tomorrow - 3]]                             | 2024.01.05   |
 | [[Keep things easy\|Keep things easy]]                                                                             | 2024.01.04   |
+| [[Atomic Habits\|Atomic Habits]]                                                                                   | 2024.01.04   |
 | [[My first lazy day\|My first lazy day]]                                                                           | 2024.01.04   |
 | [[Minute long games\|Minute long games]]                                                                           | 2024.01.03   |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 2\|Tomorrow, and Tomorrow, and Tomorrow - 2]]                             | 2024.01.03   |
