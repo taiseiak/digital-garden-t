@@ -14,7 +14,8 @@ I don't think we get happiness by seeing people who are more unfortunate than us
 
 ## Similar notes
 
-| File |
-| ---- |
+| File                                                    |
+| ------------------------------------------------------- |
+| [[Poverty, by America - 2\|Poverty, by America - 2]] |
 
 { .block-language-dataview}
