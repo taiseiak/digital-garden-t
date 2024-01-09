@@ -12,6 +12,9 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Habits in depression\|Habits in depression]]                                                                     | 2024.01.09   |
+| [[A truly lazy day\|A truly lazy day]]                                                                             | 2024.01.08   |
+| [[Poverty, by America\|Poverty, by America]]                                                                       | 2024.01.07   |
 | [[We don't feel until we see\|We don't feel until we see]]                                                         | 2024.01.07   |
 | [[Poverty, by America - 2\|Poverty, by America - 2]]                                                               | 2024.01.07   |
 | [[Finding my own solution\|Finding my own solution]]                                                               | 2024.01.06   |
