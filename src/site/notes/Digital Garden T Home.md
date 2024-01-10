@@ -12,6 +12,8 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                     | 2024.01.10   |
+| [[Cult of the Lamb\|Cult of the Lamb]]                                                                             | 2024.01.09   |
 | [[Habits in depression\|Habits in depression]]                                                                     | 2024.01.09   |
 | [[A truly lazy day\|A truly lazy day]]                                                                             | 2024.01.08   |
 | [[Poverty, by America\|Poverty, by America]]                                                                       | 2024.01.07   |
