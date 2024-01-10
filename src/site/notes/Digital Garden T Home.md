@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Mortal Sin - 1\|Mortal Sin - 1]]                                                                                 | 2024.01.10   |
 | [[Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                     | 2024.01.10   |
 | [[Cult of the Lamb\|Cult of the Lamb]]                                                                             | 2024.01.09   |
 | [[Habits in depression\|Habits in depression]]                                                                     | 2024.01.09   |
