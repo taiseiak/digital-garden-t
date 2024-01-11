@@ -17,6 +17,5 @@ One common theme that I see in this book and in [[Atomic Habits\|Atomic Habits]]
 | File                                                    |
 | ------------------------------------------------------- |
 | [[Poverty, by America - 1\|Poverty, by America - 1]] |
-| [[Poverty, by America\|Poverty, by America]]         |
 
 { .block-language-dataview}
