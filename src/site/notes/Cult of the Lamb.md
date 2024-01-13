@@ -19,7 +19,7 @@ I am incredibly glad I played this game, and I enjoyed almost every second of it
 | File                                                                            |
 | ------------------------------------------------------------------------------- |
 | [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                               |
-| [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
 | [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]] |
+| [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
 
 { .block-language-dataview}
