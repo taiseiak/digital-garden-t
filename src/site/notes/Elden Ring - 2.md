@@ -17,5 +17,6 @@ I am excited to explore more moments like this in Elden Ring.
 | File                                  |
 | ------------------------------------- |
 | [[Elden Ring - 1\|Elden Ring - 1]] |
+| [[Elden Ring - 3\|Elden Ring - 3]] |
 
 { .block-language-dataview}
