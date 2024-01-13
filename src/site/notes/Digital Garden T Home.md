@@ -12,6 +12,8 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Random Access Memories (Drumless Edition)\|Random Access Memories (Drumless Edition)]]                           | 2024.01.13   |
+| [[Scared of playing competitively\|Scared of playing competitively]]                                               | 2024.01.13   |
 | [[Elden Ring - 3\|Elden Ring - 3]]                                                                                 | 2024.01.12   |
 | [[Poverty, by America\|Poverty, by America]]                                                                       | 2024.01.12   |
 | [[Jusant - 1\|Jusant - 1]]                                                                                         | 2024.01.11   |
