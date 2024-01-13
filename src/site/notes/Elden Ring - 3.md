@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/elden-ring-3/","created":"2024-01-12T19:18:11.643+09:00","updated":"2024-01-13T10:23:53.298+09:00"}
+{"dg-publish":true,"permalink":"/elden-ring-3/","created":"2024-01-12T19:18:11.643+09:00","updated":"2024-01-13T21:55:32.748+09:00"}
 ---
 
 # Elden Ring - 3
