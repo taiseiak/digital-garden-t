@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Getting Over It - 1\|Getting Over It - 1]]                                                                       | 2024.01.14   |
 | [[Valorant - 1\|Valorant - 1]]                                                                                     | 2024.01.13   |
 | [[Random Access Memories (Drumless Edition)\|Random Access Memories (Drumless Edition)]]                           | 2024.01.13   |
 | [[Scared of playing competitively\|Scared of playing competitively]]                                               | 2024.01.13   |
