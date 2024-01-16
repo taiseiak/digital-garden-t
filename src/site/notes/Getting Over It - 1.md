@@ -16,7 +16,8 @@ One interesting point I learned while reading the [Wikipedia page](https://en.wi
 
 ## Similar notes
 
-| File |
-| ---- |
+| File                                                                  |
+| --------------------------------------------------------------------- |
+| [[Getting Over It, over 10 times\|Getting Over It, over 10 times]] |
 
 { .block-language-dataview}
