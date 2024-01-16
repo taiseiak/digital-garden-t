@@ -24,8 +24,9 @@ And I will do it again. I want to see how others climb up faster, and try it mys
 
 ## Similar notes
 
-| File                                            |
-| ----------------------------------------------- |
-| [[Getting Over It - 1\|Getting Over It - 1]] |
+| File                                                                  |
+| --------------------------------------------------------------------- |
+| [[Getting Over It - 1\|Getting Over It - 1]]                       |
+| [[Getting Over It, over 10 times\|Getting Over It, over 10 times]] |
 
 { .block-language-dataview}
