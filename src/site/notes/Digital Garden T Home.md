@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Thinking about making a B-game\|Thinking about making a B-game]]                                                 | 2024.01.17   |
 | [[Getting Over It, over 10 times\|Getting Over It, over 10 times]]                                                 | 2024.01.16   |
 | [[Getting over it for the first time\|Getting over it for the first time]]                                         | 2024.01.15   |
 | [[Game philosophy podcast\|Game philosophy podcast]]                                                               | 2024.01.14   |
