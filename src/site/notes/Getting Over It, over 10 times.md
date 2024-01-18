@@ -16,8 +16,9 @@ I haven't been outputting as much because I have been playing this game. But doi
 
 ## Similar notes
 
-| File                                            |
-| ----------------------------------------------- |
-| [[Getting Over It - 1\|Getting Over It - 1]] |
+| File                                                            |
+| --------------------------------------------------------------- |
+| [[Getting Over It - 1\|Getting Over It - 1]]                 |
+| [[Addicted to Getting Over It\|Addicted to Getting Over It]] |
 
 { .block-language-dataview}
