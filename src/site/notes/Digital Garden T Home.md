@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Reading Name of the Wind\|Reading Name of the Wind]]                                                             | 2024.01.19   |
 | [[Addicted to Getting Over It\|Addicted to Getting Over It]]                                                       | 2024.01.18   |
 | [[Thinking about making a B-game\|Thinking about making a B-game]]                                                 | 2024.01.17   |
 | [[Getting Over It, over 10 times\|Getting Over It, over 10 times]]                                                 | 2024.01.16   |
