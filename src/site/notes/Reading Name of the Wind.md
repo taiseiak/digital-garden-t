@@ -12,7 +12,8 @@ This book made me realize books like this one are important. Being able to enjoy
 
 ## Similar notes
 
-| File |
-| ---- |
+| File                                              |
+| ------------------------------------------------- |
+| [[The Name of the Wind\|The Name of the Wind]] |
 
 { .block-language-dataview}
