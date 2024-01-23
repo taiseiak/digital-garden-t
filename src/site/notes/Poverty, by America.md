@@ -16,7 +16,7 @@ Please read this book. Even if you don't agree with all the ideas that are said 
 
 | File                                                    |
 | ------------------------------------------------------- |
-| [[Poverty, by America - 2\|Poverty, by America - 2]] |
 | [[Poverty, by America - 1\|Poverty, by America - 1]] |
+| [[Poverty, by America - 2\|Poverty, by America - 2]] |
 
 { .block-language-dataview}
