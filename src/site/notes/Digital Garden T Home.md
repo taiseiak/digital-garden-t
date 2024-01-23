@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Wise Man's Fear is better than I thought\|Wise Man's Fear is better than I thought]]                             | 2024.01.23   |
 | [[How to start my podcast\|How to start my podcast]]                                                               | 2024.01.20   |
 | [[The Name of the Wind\|The Name of the Wind]]                                                                     | 2024.01.20   |
 | [[Reading Name of the Wind\|Reading Name of the Wind]]                                                             | 2024.01.19   |
