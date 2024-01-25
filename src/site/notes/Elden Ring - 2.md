@@ -14,9 +14,10 @@ I am excited to explore more moments like this in Elden Ring.
 
 ## Similar notes
 
-| File                                  |
-| ------------------------------------- |
-| [[Elden Ring - 1\|Elden Ring - 1]] |
-| [[Elden Ring - 3\|Elden Ring - 3]] |
+| File                                                                    |
+| ----------------------------------------------------------------------- |
+| [[Elden Ring - 1\|Elden Ring - 1]]                                   |
+| [[Elden Ring - 3\|Elden Ring - 3]]                                   |
+| [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
 
 { .block-language-dataview}
