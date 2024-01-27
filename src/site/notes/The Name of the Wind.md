@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-name-of-the-wind/","created":"2024-01-20T23:05:12.635+09:00","updated":"2024-01-20T23:30:21.949+09:00"}
+{"dg-publish":true,"permalink":"/the-name-of-the-wind/","created":"2024-01-20T23:05:12.000+09:00","updated":"2024-01-20T23:30:21.000+09:00"}
 ---
 
 # The Name of the Wind
