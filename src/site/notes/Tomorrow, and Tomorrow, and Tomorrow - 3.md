@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-3/","created":"2024-01-05T10:03:05.501+09:00","updated":"2024-01-05T10:45:04.877+09:00"}
+{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-3/","created":"2024-01-05T10:03:05.000+09:00","updated":"2024-01-05T10:45:04.000+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow - 3
@@ -17,7 +17,7 @@ The author is biased towards journalism in this book. I don't know if this is tr
 | File                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------- |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 2\|Tomorrow, and Tomorrow, and Tomorrow - 2]]                             |
-| [[Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] |
 | [[Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                     |
+| [[Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] |
 
 { .block-language-dataview}
