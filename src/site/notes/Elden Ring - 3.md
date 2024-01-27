@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/elden-ring-3/","created":"2024-01-12T19:18:11.000+09:00","updated":"2024-01-13T21:55:32.000+09:00"}
+{"dg-publish":true,"permalink":"/elden-ring-3/","created":"2024-01-12T19:18:11.643+09:00","updated":"2024-01-13T21:55:32.748+09:00"}
 ---
 
 # Elden Ring - 3
@@ -16,7 +16,8 @@ The split is between going hunting the main bosses, which are usually surrounded
 
 | File                                                                    |
 | ----------------------------------------------------------------------- |
-| [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
+| [[Elden Ring - 1\|Elden Ring - 1]]                                   |
 | [[Elden Ring - 2\|Elden Ring - 2]]                                   |
+| [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
 
 { .block-language-dataview}
