@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it-s-good-to-fail/","created":"2024-01-02T21:25:26.991+09:00","updated":"2024-01-03T11:34:41.215+09:00"}
+{"dg-publish":true,"permalink":"/it-s-good-to-fail/","created":"2024-01-02T21:25:26.000+09:00","updated":"2024-01-03T11:34:41.000+09:00"}
 ---
 
 # It's good to fail
