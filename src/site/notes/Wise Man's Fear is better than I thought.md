@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wise-man-s-fear-is-better-than-i-thought/","created":"2024-01-23T21:54:06.162+09:00","updated":"2024-01-23T22:02:05.627+09:00"}
+{"dg-publish":true,"permalink":"/wise-man-s-fear-is-better-than-i-thought/","created":"2024-01-23T21:54:06.000+09:00","updated":"2024-01-23T22:02:05.000+09:00"}
 ---
 
 # Wise Man's Fear is better than I thought
