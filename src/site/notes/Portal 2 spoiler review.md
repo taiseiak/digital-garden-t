@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portal-2-spoiler-review/","created":"2023-12-30T20:54:38.350+09:00","updated":"2024-01-03T11:18:00.631+09:00"}
+{"dg-publish":true,"permalink":"/portal-2-spoiler-review/","created":"2023-12-30T20:54:38.000+09:00","updated":"2024-01-03T11:18:00.000+09:00"}
 ---
 
 # Portal 2 spoiler review
