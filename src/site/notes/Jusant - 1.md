@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jusant-1/","created":"2024-01-11T22:50:54.000+09:00","updated":"2024-01-11T22:58:55.000+09:00"}
+{"dg-publish":true,"permalink":"/jusant-1/","created":"2024-01-11T22:50:54.809+09:00","updated":"2024-01-11T22:58:55.068+09:00"}
 ---
 
 # Jusant - 1
