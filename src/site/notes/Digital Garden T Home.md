@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T21:44:40.716+09:00"}
+{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.000+09:00","updated":"2024-01-03T21:44:40.000+09:00"}
 ---
 
 # Digital Garden T
@@ -12,14 +12,12 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Perfect Days\|Perfect Days]]                                                                                     | 2024.01.27   |
 | [[Finally getting into Elden Ring\|Finally getting into Elden Ring]]                                               | 2024.01.25   |
-| [[Wise Man's Fear\|Wise Man's Fear]]                                                                               | 2024.01.25   |
 | [[Wise Man's Fear is better than I thought\|Wise Man's Fear is better than I thought]]                             | 2024.01.23   |
 | [[How to start my podcast\|How to start my podcast]]                                                               | 2024.01.20   |
 | [[The Name of the Wind\|The Name of the Wind]]                                                                     | 2024.01.20   |
 | [[Reading Name of the Wind\|Reading Name of the Wind]]                                                             | 2024.01.19   |
-| [[Addicted to Getting Over It\|Addicted to Getting Over It]]                                                       | 2024.01.18   |
-| [[Thinking about making a B-game\|Thinking about making a B-game]]                                                 | 2024.01.17   |
 | [[Getting Over It, over 10 times\|Getting Over It, over 10 times]]                                                 | 2024.01.16   |
 | [[Getting over it for the first time\|Getting over it for the first time]]                                         | 2024.01.15   |
 | [[Game philosophy podcast\|Game philosophy podcast]]                                                               | 2024.01.14   |
@@ -36,11 +34,9 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 | [[Habits in depression\|Habits in depression]]                                                                     | 2024.01.09   |
 | [[A truly lazy day\|A truly lazy day]]                                                                             | 2024.01.08   |
 | [[We don't feel until we see\|We don't feel until we see]]                                                         | 2024.01.07   |
-| [[Poverty, by America - 2\|Poverty, by America - 2]]                                                               | 2024.01.07   |
 | [[Finding my own solution\|Finding my own solution]]                                                               | 2024.01.06   |
 | [[Elden Ring - 2\|Elden Ring - 2]]                                                                                 | 2024.01.06   |
 | [[Poverty, by America - 1\|Poverty, by America - 1]]                                                               | 2024.01.05   |
-| [[Elden Ring - 1\|Elden Ring - 1]]                                                                                 | 2024.01.05   |
 | [[Valve's Secret Weapon\|Valve's Secret Weapon]]                                                                   | 2024.01.05   |
 | [[Quantity over quality\|Quantity over quality]]                                                                   | 2024.01.05   |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 3\|Tomorrow, and Tomorrow, and Tomorrow - 3]]                             | 2024.01.05   |
