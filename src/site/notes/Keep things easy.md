@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/keep-things-easy/","created":"2024-01-04T10:10:44.976+09:00","updated":"2024-01-04T10:18:14.385+09:00"}
+{"dg-publish":true,"permalink":"/keep-things-easy/","created":"2024-01-04T10:10:44.000+09:00","updated":"2024-01-04T10:18:14.000+09:00"}
 ---
 
 # Keep things easy
