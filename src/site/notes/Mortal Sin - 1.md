@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mortal-sin-1/","created":"2024-01-10T17:06:35.438+09:00","updated":"2024-01-10T17:36:19.289+09:00"}
+{"dg-publish":true,"permalink":"/mortal-sin-1/","created":"2024-01-10T17:06:35.000+09:00","updated":"2024-01-10T17:36:19.000+09:00"}
 ---
 
 # Mortal Sin - 1
