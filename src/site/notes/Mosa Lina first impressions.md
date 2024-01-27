@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mosa-lina-first-impressions/","created":"2023-12-26T21:33:38.000+09:00","updated":"2024-01-03T11:23:24.000+09:00"}
+{"dg-publish":true,"permalink":"/mosa-lina-first-impressions/","created":"2023-12-26T21:33:38.259+09:00","updated":"2024-01-03T11:23:24.973+09:00"}
 ---
 
 # Mosa Lina first impressions
