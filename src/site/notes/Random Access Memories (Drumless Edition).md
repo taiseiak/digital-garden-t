@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/random-access-memories-drumless-edition/","created":"2024-01-13T21:36:34.000+09:00","updated":"2024-01-13T21:54:54.000+09:00"}
+{"dg-publish":true,"permalink":"/random-access-memories-drumless-edition/","created":"2024-01-13T21:36:34.335+09:00","updated":"2024-01-13T21:54:54.235+09:00"}
 ---
 
 # Random Access Memories (Drumless Edition)
