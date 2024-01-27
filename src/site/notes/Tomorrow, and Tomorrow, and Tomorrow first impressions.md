@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.834+09:00","updated":"2024-01-03T14:39:01.845+09:00"}
+{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-first-impressions/","created":"2024-01-03T10:52:22.000+09:00","updated":"2024-01-03T14:39:01.000+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow first impressions
