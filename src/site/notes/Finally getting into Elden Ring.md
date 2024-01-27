@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finally-getting-into-elden-ring/","created":"2024-01-25T21:20:58.270+09:00","updated":"2024-01-25T21:37:50.146+09:00"}
+{"dg-publish":true,"permalink":"/finally-getting-into-elden-ring/","created":"2024-01-25T21:20:58.000+09:00","updated":"2024-01-25T21:37:50.000+09:00"}
 ---
 
 # Finally getting into Elden Ring
@@ -14,7 +14,6 @@ I want to play it every day. I realized that after having some level of Vigor th
 
 | File                                  |
 | ------------------------------------- |
-| [[Elden Ring - 1\|Elden Ring - 1]] |
 | [[Elden Ring - 2\|Elden Ring - 2]] |
 | [[Elden Ring - 3\|Elden Ring - 3]] |
 
