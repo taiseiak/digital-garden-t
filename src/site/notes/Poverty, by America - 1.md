@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/poverty-by-america-1/","created":"2024-01-05T22:20:23.369+09:00","updated":"2024-01-05T22:28:09.591+09:00"}
+{"dg-publish":true,"permalink":"/poverty-by-america-1/","created":"2024-01-05T22:20:23.000+09:00","updated":"2024-01-05T22:28:09.000+09:00"}
 ---
 
 # Poverty, by America - 1
@@ -14,9 +14,8 @@ I don't think we get happiness by seeing people who are more unfortunate than us
 
 ## Similar notes
 
-| File                                                    |
-| ------------------------------------------------------- |
-| [[Poverty, by America - 2\|Poverty, by America - 2]] |
-| [[Poverty, by America\|Poverty, by America]]         |
+| File                                            |
+| ----------------------------------------------- |
+| [[Poverty, by America\|Poverty, by America]] |
 
 { .block-language-dataview}
