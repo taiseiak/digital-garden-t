@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revisiting-vampire-survivors/","created":"2024-01-01T21:35:58.000+09:00","updated":"2024-01-01T21:38:13.000+09:00"}
+{"dg-publish":true,"permalink":"/revisiting-vampire-survivors/","created":"2024-01-01T21:35:58.043+09:00","updated":"2024-01-01T21:38:13.676+09:00"}
 ---
 
 # Revisiting Vampire Survivors
