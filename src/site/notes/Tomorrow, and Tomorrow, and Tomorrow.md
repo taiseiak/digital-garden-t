@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow/","created":"2024-01-10T16:46:16.000+09:00","updated":"2024-01-10T17:06:16.000+09:00"}
+{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow/","created":"2024-01-10T16:46:16.630+09:00","updated":"2024-01-10T17:06:16.417+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow
