@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sifu-second-impressions/","created":"2024-01-02T17:28:52.694+09:00","updated":"2024-01-03T11:24:03.114+09:00"}
+{"dg-publish":true,"permalink":"/sifu-second-impressions/","created":"2024-01-02T17:28:52.000+09:00","updated":"2024-01-03T11:24:03.000+09:00"}
 ---
 
 # Sifu second impressions
