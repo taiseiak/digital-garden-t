@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/poverty-by-america/","created":"2024-01-12T19:05:52.000+09:00","updated":"2024-01-12T19:18:09.000+09:00"}
+{"dg-publish":true,"permalink":"/poverty-by-america/","created":"2024-01-12T19:05:52.646+09:00","updated":"2024-01-12T19:18:09.417+09:00"}
 ---
 
 # Poverty, by America
@@ -17,5 +17,6 @@ Please read this book. Even if you don't agree with all the ideas that are said 
 | File                                                    |
 | ------------------------------------------------------- |
 | [[Poverty, by America - 1\|Poverty, by America - 1]] |
+| [[Poverty, by America - 2\|Poverty, by America - 2]] |
 
 { .block-language-dataview}
