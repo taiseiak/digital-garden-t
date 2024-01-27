@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habits-in-depression/","created":"2024-01-09T16:42:27.750+09:00","updated":"2024-01-09T16:50:39.694+09:00"}
+{"dg-publish":true,"permalink":"/habits-in-depression/","created":"2024-01-09T16:42:27.000+09:00","updated":"2024-01-09T16:50:39.000+09:00"}
 ---
 
 # Habits in depression
