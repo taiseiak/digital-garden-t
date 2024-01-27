@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delayed-intuition/","created":"2024-01-01T21:50:36.000+09:00","updated":"2024-01-06T21:50:48.000+09:00"}
+{"dg-publish":true,"permalink":"/delayed-intuition/","created":"2024-01-01T21:50:36.601+09:00","updated":"2024-01-06T21:50:48.329+09:00"}
 ---
 
 # Delayed intuition
