@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/understanding-strategy-vs-tactics/","created":"2023-11-30T21:35:25.000+09:00","updated":"2024-01-03T14:59:05.000+09:00"}
+{"dg-publish":true,"permalink":"/understanding-strategy-vs-tactics/","created":"2023-11-30T21:35:25.963+09:00","updated":"2024-01-03T14:59:05.852+09:00"}
 ---
 
 # Understanding Strategy vs Tactics
