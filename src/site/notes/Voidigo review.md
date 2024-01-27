@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voidigo-review/","created":"2023-12-01T09:02:21.481+09:00","updated":"2024-01-03T14:58:39.693+09:00"}
+{"dg-publish":true,"permalink":"/voidigo-review/","created":"2023-12-01T09:02:21.000+09:00","updated":"2024-01-03T14:58:39.000+09:00"}
 ---
 
 # Voidigo Review
