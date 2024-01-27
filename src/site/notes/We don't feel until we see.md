@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-don-t-feel-until-we-see/","created":"2024-01-07T10:55:13.000+09:00","updated":"2024-01-07T11:03:24.000+09:00"}
+{"dg-publish":true,"permalink":"/we-don-t-feel-until-we-see/","created":"2024-01-07T10:55:13.784+09:00","updated":"2024-01-07T11:03:24.656+09:00"}
 ---
 
 # We don't feel until we see
