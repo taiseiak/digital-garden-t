@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantity-over-quality/","created":"2024-01-05T10:35:46.000+09:00","updated":"2024-01-05T22:55:12.000+09:00"}
+{"dg-publish":true,"permalink":"/quantity-over-quality/","created":"2024-01-05T10:35:46.935+09:00","updated":"2024-01-05T22:55:12.797+09:00"}
 ---
 
 # Quantity over quality
