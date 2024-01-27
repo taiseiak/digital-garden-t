@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sifu-first-impressions/","created":"2023-12-31T18:34:56.000+09:00","updated":"2024-01-03T11:23:58.000+09:00"}
+{"dg-publish":true,"permalink":"/sifu-first-impressions/","created":"2023-12-31T18:34:56.542+09:00","updated":"2024-01-03T11:23:58.650+09:00"}
 ---
 
 # Sifu first impressions
