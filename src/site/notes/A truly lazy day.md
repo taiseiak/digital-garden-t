@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-truly-lazy-day/","created":"2024-01-08T21:09:43.035+09:00","updated":"2024-01-08T21:11:37.468+09:00"}
+{"dg-publish":true,"permalink":"/a-truly-lazy-day/","created":"2024-01-08T21:09:43.000+09:00","updated":"2024-01-08T21:11:37.000+09:00"}
 ---
 
 # A truly lazy day
