@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minute-long-games/","created":"2024-01-03T21:45:33.888+09:00","updated":"2024-01-03T22:01:51.310+09:00"}
+{"dg-publish":true,"permalink":"/minute-long-games/","created":"2024-01-03T21:45:33.000+09:00","updated":"2024-01-03T22:01:51.000+09:00"}
 ---
 
 # Minute long games
