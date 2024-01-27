@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-name-of-the-wind/","created":"2024-01-19T10:31:40.683+09:00","updated":"2024-01-19T10:43:53.164+09:00"}
+{"dg-publish":true,"permalink":"/reading-name-of-the-wind/","created":"2024-01-19T10:31:40.000+09:00","updated":"2024-01-19T10:43:53.000+09:00"}
 ---
 
 # Reading Name of the Wind
