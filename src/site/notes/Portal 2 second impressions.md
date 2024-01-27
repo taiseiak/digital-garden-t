@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portal-2-second-impressions/","created":"2023-12-28T22:52:45.000+09:00","updated":"2024-01-03T11:23:25.000+09:00"}
+{"dg-publish":true,"permalink":"/portal-2-second-impressions/","created":"2023-12-28T22:52:45.000+09:00","updated":"2024-01-03T11:23:25.004+09:00"}
 ---
 
 # Portal 2 second impressions
