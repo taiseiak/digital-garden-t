@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portal-2-first-impressions/","created":"2023-12-28T10:50:36.000+09:00","updated":"2024-01-03T11:23:24.995+09:00"}
+{"dg-publish":true,"permalink":"/portal-2-first-impressions/","created":"2023-12-28T10:50:36.000+09:00","updated":"2024-01-03T11:23:24.000+09:00"}
 ---
 
 # Portal 2 first impressions
