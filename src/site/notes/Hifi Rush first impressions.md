@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hifi-rush-first-impressions/","created":"2023-12-31T15:12:34.000+09:00","updated":"2024-01-03T11:23:25.000+09:00"}
+{"dg-publish":true,"permalink":"/hifi-rush-first-impressions/","created":"2023-12-31T15:12:34.048+09:00","updated":"2024-01-03T11:23:25.029+09:00"}
 ---
 
 # Hifi Rush first impressions
