@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-over-it-1/","created":"2024-01-14T09:52:17.414+09:00","updated":"2024-01-14T10:08:34.728+09:00"}
+{"dg-publish":true,"permalink":"/getting-over-it-1/","created":"2024-01-14T09:52:17.000+09:00","updated":"2024-01-14T10:08:34.000+09:00"}
 ---
 
 # Getting Over It - 1
@@ -18,7 +18,6 @@ One interesting point I learned while reading the [Wikipedia page](https://en.wi
 
 | File                                                                  |
 | --------------------------------------------------------------------- |
-| [[Addicted to Getting Over It\|Addicted to Getting Over It]]       |
 | [[Getting Over It, over 10 times\|Getting Over It, over 10 times]] |
 
 { .block-language-dataview}
