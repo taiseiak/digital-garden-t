@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-over-it-over-10-times/","created":"2024-01-16T21:56:41.843+09:00","updated":"2024-01-16T22:00:27.273+09:00"}
+{"dg-publish":true,"permalink":"/getting-over-it-over-10-times/","created":"2024-01-16T21:56:41.000+09:00","updated":"2024-01-16T22:00:27.000+09:00"}
 ---
 
 # Getting Over It, over 10 times
@@ -16,9 +16,8 @@ I haven't been outputting as much because I have been playing this game. But doi
 
 ## Similar notes
 
-| File                                                            |
-| --------------------------------------------------------------- |
-| [[Addicted to Getting Over It\|Addicted to Getting Over It]] |
-| [[Getting Over It - 1\|Getting Over It - 1]]                 |
+| File                                            |
+| ----------------------------------------------- |
+| [[Getting Over It - 1\|Getting Over It - 1]] |
 
 { .block-language-dataview}
