@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scared-of-playing-competitively/","created":"2024-01-13T21:25:50.382+09:00","updated":"2024-01-13T21:36:18.982+09:00"}
+{"dg-publish":true,"permalink":"/scared-of-playing-competitively/","created":"2024-01-13T21:25:50.000+09:00","updated":"2024-01-13T21:36:18.000+09:00"}
 ---
 
 # Scared of playing competitively
