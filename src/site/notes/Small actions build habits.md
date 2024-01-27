@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/small-actions-build-habits/","created":"2024-01-01T21:38:24.000+09:00","updated":"2024-01-01T21:42:44.000+09:00"}
+{"dg-publish":true,"permalink":"/small-actions-build-habits/","created":"2024-01-01T21:38:24.508+09:00","updated":"2024-01-01T21:42:44.044+09:00"}
 ---
 
 # Small actions build habits
