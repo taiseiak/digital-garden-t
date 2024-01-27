@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valorant-1/","created":"2024-01-13T23:02:25.000+09:00","updated":"2024-01-13T23:07:23.403+09:00"}
+{"dg-publish":true,"permalink":"/valorant-1/","created":"2024-01-13T23:02:25.000+09:00","updated":"2024-01-13T23:07:23.000+09:00"}
 ---
 
 # Valorant - 1
