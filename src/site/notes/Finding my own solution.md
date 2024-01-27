@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finding-my-own-solution/","created":"2024-01-06T21:42:13.388+09:00","updated":"2024-01-06T21:57:43.564+09:00"}
+{"dg-publish":true,"permalink":"/finding-my-own-solution/","created":"2024-01-06T21:42:13.000+09:00","updated":"2024-01-06T21:57:43.000+09:00"}
 ---
 
 # Finding my own solution
