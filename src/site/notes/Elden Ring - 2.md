@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/elden-ring-2/","created":"2024-01-06T21:35:15.371+09:00","updated":"2024-01-06T21:42:12.286+09:00"}
+{"dg-publish":true,"permalink":"/elden-ring-2/","created":"2024-01-06T21:35:15.000+09:00","updated":"2024-01-06T21:42:12.000+09:00"}
 ---
 
 # Elden Ring - 2
@@ -16,8 +16,7 @@ I am excited to explore more moments like this in Elden Ring.
 
 | File                                                                    |
 | ----------------------------------------------------------------------- |
-| [[Elden Ring - 1\|Elden Ring - 1]]                                   |
-| [[Elden Ring - 3\|Elden Ring - 3]]                                   |
 | [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
+| [[Elden Ring - 3\|Elden Ring - 3]]                                   |
 
 { .block-language-dataview}
