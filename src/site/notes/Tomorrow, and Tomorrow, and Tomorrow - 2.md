@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-2/","created":"2024-01-03T21:34:30.000+09:00","updated":"2024-01-03T21:43:05.000+09:00"}
+{"dg-publish":true,"permalink":"/tomorrow-and-tomorrow-and-tomorrow-2/","created":"2024-01-03T21:34:30.000+09:00","updated":"2024-01-03T21:43:05.936+09:00"}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow - 2
@@ -15,7 +15,7 @@ Another aspect I found to be interesting about this book is the flashbacks and f
 | File                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------- |
 | [[Tomorrow, and Tomorrow, and Tomorrow - 3\|Tomorrow, and Tomorrow, and Tomorrow - 3]]                             |
-| [[Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                     |
 | [[Tomorrow, and Tomorrow, and Tomorrow first impressions\|Tomorrow, and Tomorrow, and Tomorrow first impressions]] |
+| [[Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                     |
 
 { .block-language-dataview}
