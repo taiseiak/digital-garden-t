@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-over-it-for-the-first-time/","created":"2024-01-15T23:34:09.000+09:00","updated":"2024-01-15T23:49:11.000+09:00"}
+{"dg-publish":true,"permalink":"/getting-over-it-for-the-first-time/","created":"2024-01-15T23:34:09.805+09:00","updated":"2024-01-15T23:49:11.769+09:00"}
 ---
 
 # Getting over it for the first time
@@ -26,7 +26,8 @@ And I will do it again. I want to see how others climb up faster, and try it mys
 
 | File                                                                  |
 | --------------------------------------------------------------------- |
-| [[Getting Over It, over 10 times\|Getting Over It, over 10 times]] |
+| [[Addicted to Getting Over It\|Addicted to Getting Over It]]       |
 | [[Getting Over It - 1\|Getting Over It - 1]]                       |
+| [[Getting Over It, over 10 times\|Getting Over It, over 10 times]] |
 
 { .block-language-dataview}
