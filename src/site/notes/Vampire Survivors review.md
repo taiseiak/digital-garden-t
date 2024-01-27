@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vampire-survivors-review/","created":"2024-01-02T13:13:55.161+09:00","updated":"2024-01-03T11:24:15.669+09:00"}
+{"dg-publish":true,"permalink":"/vampire-survivors-review/","created":"2024-01-02T13:13:55.000+09:00","updated":"2024-01-03T11:24:15.000+09:00"}
 ---
 
 # Vampire Survivors 
