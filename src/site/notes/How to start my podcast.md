@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-start-my-podcast/","created":"2024-01-20T23:30:26.000+09:00","updated":"2024-01-20T23:39:11.000+09:00"}
+{"dg-publish":true,"permalink":"/how-to-start-my-podcast/","created":"2024-01-20T23:30:26.185+09:00","updated":"2024-01-20T23:39:11.839+09:00"}
 ---
 
 # How to start my podcast
