@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perfect-days/","created":"2024-01-27T21:28:41.504+09:00","updated":"2024-01-27T22:04:52.305+09:00"}
+{"dg-publish":true,"permalink":"/perfect-days/","created":"2024-01-27T21:28:41.000+09:00","updated":"2024-01-27T22:04:52.000+09:00"}
 ---
 
 # Perfect Days
