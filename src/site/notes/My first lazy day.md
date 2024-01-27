@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-first-lazy-day/","created":"2024-01-04T10:06:00.668+09:00","updated":"2024-01-04T10:10:43.313+09:00"}
+{"dg-publish":true,"permalink":"/my-first-lazy-day/","created":"2024-01-04T10:06:00.000+09:00","updated":"2024-01-04T10:10:43.000+09:00"}
 ---
 
 # My first lazy day
