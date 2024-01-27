@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cult-of-the-lamb/","created":"2024-01-09T16:51:21.471+09:00","updated":"2024-01-10T16:46:14.309+09:00"}
+{"dg-publish":true,"permalink":"/cult-of-the-lamb/","created":"2024-01-09T16:51:21.000+09:00","updated":"2024-01-10T16:46:14.000+09:00"}
 ---
 
 # Cult of the Lamb
@@ -18,8 +18,8 @@ I am incredibly glad I played this game, and I enjoyed almost every second of it
 
 | File                                                                            |
 | ------------------------------------------------------------------------------- |
-| [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                               |
-| [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
 | [[Cult of the Lamb second impressions\|Cult of the Lamb second impressions]] |
+| [[Cult of the Lamb first impressions\|Cult of the Lamb first impressions]]   |
+| [[Cult of the Lamb - 3\|Cult of the Lamb - 3]]                               |
 
 { .block-language-dataview}
