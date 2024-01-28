@@ -23,5 +23,6 @@ Today I beat the first portion of Margit, two other bosses that I didn't find in
 | [[Elden Ring - 2\|Elden Ring - 2]]                                   |
 | [[Elden Ring - 3\|Elden Ring - 3]]                                   |
 | [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
+| [[Using guides in Elden Ring\|Using guides in Elden Ring]]           |
 
 { .block-language-dataview}
