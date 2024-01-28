@@ -19,5 +19,6 @@ The split is between going hunting the main bosses, which are usually surrounded
 | [[Elden Ring - 1\|Elden Ring - 1]]                                   |
 | [[Elden Ring - 2\|Elden Ring - 2]]                                   |
 | [[Finally getting into Elden Ring\|Finally getting into Elden Ring]] |
+| [[Using guides in Elden Ring\|Using guides in Elden Ring]]           |
 
 { .block-language-dataview}
