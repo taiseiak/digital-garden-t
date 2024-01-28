@@ -12,10 +12,11 @@ I want to play it every day. I realized that after having some level of Vigor th
 
 ## Similar notes
 
-| File                                  |
-| ------------------------------------- |
-| [[Elden Ring - 1\|Elden Ring - 1]] |
-| [[Elden Ring - 2\|Elden Ring - 2]] |
-| [[Elden Ring - 3\|Elden Ring - 3]] |
+| File                                                          |
+| ------------------------------------------------------------- |
+| [[Elden Ring - 1\|Elden Ring - 1]]                         |
+| [[Elden Ring - 2\|Elden Ring - 2]]                         |
+| [[Elden Ring - 3\|Elden Ring - 3]]                         |
+| [[Using guides in Elden Ring\|Using guides in Elden Ring]] |
 
 { .block-language-dataview}
