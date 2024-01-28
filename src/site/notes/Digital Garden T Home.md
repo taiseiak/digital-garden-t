@@ -12,6 +12,9 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Weird Fishes\|Weird Fishes]]                                                                                     | 2024.01.28   |
+| [[Doing what keep me satisfied\|Doing what keep me satisfied]]                                                     | 2024.01.28   |
+| [[Using guides in Elden Ring\|Using guides in Elden Ring]]                                                         | 2024.01.28   |
 | [[Perfect Days\|Perfect Days]]                                                                                     | 2024.01.27   |
 | [[Finally getting into Elden Ring\|Finally getting into Elden Ring]]                                               | 2024.01.25   |
 | [[Wise Man's Fear\|Wise Man's Fear]]                                                                               | 2024.01.25   |
