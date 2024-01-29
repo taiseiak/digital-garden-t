@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-03T21:44:40.716+09:00"}
+{"dg-publish":true,"permalink":"/digital-garden-t-home/","tags":["gardenEntry"],"created":"2023-12-26T20:57:28.391+09:00","updated":"2024-01-29T00:04:02.384+09:00"}
 ---
 
-# Digital Garden T
+# Digital Garden Tk
 
 This digital garden is where I publish my thoughts in a way that's easy to output.
 
@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Slay the Spire is amazing\|Slay the Spire is amazing]]                                                           | 2024.01.29   |
 | [[Weird Fishes\|Weird Fishes]]                                                                                     | 2024.01.28   |
 | [[Doing what keep me satisfied\|Doing what keep me satisfied]]                                                     | 2024.01.28   |
 | [[Using guides in Elden Ring\|Using guides in Elden Ring]]                                                         | 2024.01.28   |
