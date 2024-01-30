@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Scared of starting something new\|Scared of starting something new]]                                             | 2024.01.30   |
 | [[Slay the Spire is amazing\|Slay the Spire is amazing]]                                                           | 2024.01.29   |
 | [[Weird Fishes\|Weird Fishes]]                                                                                     | 2024.01.28   |
 | [[Doing what keep me satisfied\|Doing what keep me satisfied]]                                                     | 2024.01.28   |
