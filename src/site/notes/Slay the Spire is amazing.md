@@ -12,7 +12,8 @@ I want to know how the game is balanced. I feel that the game's analysis could b
 
 ## Similar notes
 
-| File |
-| ---- |
+| File                                                                |
+| ------------------------------------------------------------------- |
+| [[What makes Slay the Spire fun\|What makes Slay the Spire fun]] |
 
 { .block-language-dataview}
