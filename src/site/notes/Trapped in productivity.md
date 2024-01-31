@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trapped-in-productivity/","created":"2024-01-30T23:08:36.128+09:00","updated":"2024-01-30T23:17:57.958+09:00"}
+{"dg-publish":true,"permalink":"/trapped-in-productivity/","created":"2024-01-30T23:08:36.128+09:00","updated":"2024-01-30T23:51:27.197+09:00"}
 ---
 
 # Trapped in productivity
@@ -16,4 +16,4 @@ I have barely watched YouTube for a month now. It may not seem like much, but th
 
 Even if I can be more creative and output more, there will be tasks I haven't accomplished. These tasks will tie me down as much as the tasks that are tying me right now. There's no escape, other than from myself. I need to accept that it's okay to have fun in life ([[Not changing past notes\|Not changing past notes]]). It sounds weird, but I haven't. It's hard to do. There's so much pressure to be productive in this society.
 
-I'm gonna try anyway. I'm gonna try to be chill in my life.
+I'm gonna try anyway. I'm gonna try to be chill in my life. 
