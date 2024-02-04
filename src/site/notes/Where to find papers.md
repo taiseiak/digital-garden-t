@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/where-to-find-papers/","created":"2024-02-04T17:29:35.016+09:00","updated":"2024-02-04T17:39:12.648+09:00"}
+{"dg-publish":true,"permalink":"/where-to-find-papers/","created":"2024-02-04T17:29:35.016+09:00","updated":"2024-02-04T17:39:13.528+09:00"}
 ---
 
 # Where to find papers
@@ -17,4 +17,4 @@ Here are some links I found.
 - [APA Databases and Electronic Resources - Home - APA](https://www.apa.org/pubs/databases)
 - [Nature](https://www.nature.com/)
 
-I haven't used them yet, but I'll write when I do.
+I haven't used them yet, but I'll write when I do.\
