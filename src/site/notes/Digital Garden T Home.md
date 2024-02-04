@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Where to find papers\|Where to find papers]]                                                                     | 2024.02.04   |
 | [[Combination balance in Slay the Spire\|Combination balance in Slay the Spire]]                                   | 2024.02.01   |
 | [[What makes Slay the Spire fun\|What makes Slay the Spire fun]]                                                   | 2024.01.31   |
 | [[Trapped in productivity\|Trapped in productivity]]                                                               | 2024.01.30   |
