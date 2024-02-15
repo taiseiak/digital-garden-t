@@ -16,7 +16,8 @@ I am glad I played and I want to reward myself for playing. Feeling scared but g
 
 ## Similar notes
 
-| File |
-| ---- |
+| File                                                                            |
+| ------------------------------------------------------------------------------- |
+| [[Understanding Valorant a little bit\|Understanding Valorant a little bit]] |
 
 { .block-language-dataview}
