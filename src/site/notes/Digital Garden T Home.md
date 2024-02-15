@@ -12,6 +12,8 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                  | Time Created |
 | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Understanding Valorant a little bit\|Understanding Valorant a little bit]]                                       | 2024.02.15   |
+| [[Slacking\|Slacking]]                                                                                             | 2024.02.12   |
 | [[Getting my Playdate\|Getting my Playdate]]                                                                       | 2024.02.06   |
 | [[Where to find papers\|Where to find papers]]                                                                     | 2024.02.04   |
 | [[Combination balance in Slay the Spire\|Combination balance in Slay the Spire]]                                   | 2024.02.01   |
