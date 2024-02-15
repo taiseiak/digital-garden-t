@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slacking/","created":"2024-02-12T10:17:26.828+09:00","updated":"2024-02-12T10:23:52.568+09:00"}
+{"dg-publish":true,"permalink":"/slacking/","created":"2024-02-12T10:17:26.000+09:00","updated":"2024-02-12T10:23:52.000+09:00"}
 ---
 
 # Slacking
