@@ -12,6 +12,7 @@ This table to notes is intentionally set up to be long. It holds up to 1000 entr
 
 | File                                                                                                                    | Time Created |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[Understood Valorant a little bit more\|Understood Valorant a little bit more]]                                     | 2024.02.21   |
 | [[Always look at the minimap in a competitive game\|Always look at the minimap in a competitive game]]               | 2024.02.19   |
 | [[Getting destroyed on Split in Valorant\|Getting destroyed on Split in Valorant]]                                   | 2024.02.19   |
 | [[Understanding that I don't know anything about Valorant\|Understanding that I don't know anything about Valorant]] | 2024.02.18   |
