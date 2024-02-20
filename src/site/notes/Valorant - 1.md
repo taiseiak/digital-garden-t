@@ -21,5 +21,6 @@ I am glad I played and I want to reward myself for playing. Feeling scared but g
 | [[Understanding Valorant a little bit\|Understanding Valorant a little bit]]                                         |
 | [[Understanding that I don't know anything about Valorant\|Understanding that I don't know anything about Valorant]] |
 | [[Getting destroyed on Split in Valorant\|Getting destroyed on Split in Valorant]]                                   |
+| [[Understood Valorant a little bit more\|Understood Valorant a little bit more]]                                     |
 
 { .block-language-dataview}
